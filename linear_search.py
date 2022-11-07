@@ -12,3 +12,7 @@ if(result==-1):
     print('Value not found in the list')
 else:
     print(f'Value found! At the position of: {result+1}')
+    
+
+#time_complexity=O(n)
+#space_complexity=O(1)
